@@ -1,5 +1,4 @@
 import time
-
 import pytest
 
 from PageObjectModelFramework.Pages.CarBase import CarBase
