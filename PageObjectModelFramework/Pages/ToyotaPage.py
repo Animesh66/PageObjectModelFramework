@@ -1,5 +1,5 @@
-from Pages.BasePage import BasePage
-from Utilities import configReader
+from PageObjectModelFramework.Pages.BasePage import BasePage
+from PageObjectModelFramework.Utilities import configReader
 
 
 class ToyotaPage(BasePage):

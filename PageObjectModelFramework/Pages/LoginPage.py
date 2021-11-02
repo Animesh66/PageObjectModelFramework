@@ -1,7 +1,7 @@
 from selenium.webdriver.support.select import Select
 
-from Pages.BasePage import BasePage
-from Utilities import configReader
+from PageObjectModelFramework.Pages.BasePage import BasePage
+from PageObjectModelFramework.Utilities import configReader
 
 
 class LoginPage(BasePage):

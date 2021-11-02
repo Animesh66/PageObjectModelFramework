@@ -1,4 +1,4 @@
-from Pages.BasePage import BasePage
+from PageObjectModelFramework.Pages.BasePage import BasePage
 
 
 class BmwPage(BasePage):

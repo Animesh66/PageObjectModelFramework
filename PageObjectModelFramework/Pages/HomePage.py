@@ -1,5 +1,5 @@
-from Pages.BasePage import BasePage
-from Pages.NewCarsPage import NewCarsPage
+from PageObjectModelFramework.Pages.BasePage import BasePage
+from PageObjectModelFramework.Pages.NewCarsPage import NewCarsPage
 
 
 class HomePage(BasePage):

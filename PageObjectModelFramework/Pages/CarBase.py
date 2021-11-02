@@ -1,4 +1,4 @@
-from Utilities import configReader
+from PageObjectModelFramework.Utilities import configReader
 
 
 class CarBase:
