@@ -1,7 +1,4 @@
-from selenium.webdriver.support.select import Select
-
 from PageObjectModelFramework.Pages.BasePage import BasePage
-from PageObjectModelFramework.Utilities import configReader
 
 
 class RegistrationPage(BasePage):
